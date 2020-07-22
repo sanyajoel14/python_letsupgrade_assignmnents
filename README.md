@@ -1,0 +1,2 @@
+# python_letsupgrade_assignmnents
+Assignments only
